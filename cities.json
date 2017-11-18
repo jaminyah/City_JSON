@@ -1,0 +1,265 @@
+{
+	"major_cities":
+				[
+					{
+					 "flagUrl": "http://cdn.jaminya.com/images/states/newyork_88x88.png",
+					 "slug": "newyork88",
+					 "sports_team": "Knicks",
+					 "city": "New York",
+                     "state": "New York",
+					 "region": "North Eastern",
+					 "latitude": 40.6635,
+					 "longitude": -73.9387
+					},
+					{
+					 "flagUrl": "http://cdn.jaminya.com/images/states/california_88x88.png",
+					 "slug": "california88",
+					 "sports_team": "Dodgers",
+					 "city": "Los Angeles",
+                    "state": "California",
+					 "region": "Western",
+					 "latitude": 34.0194,
+					 "longitude": -118.4108
+					},
+					{
+					 "flagUrl": "http://cdn.jaminya.com/images/states/illinois_88x88.png",
+					 "slug": "illinois88",
+					 "sports_team": "Pistons",
+					 "city": "Chicago",
+                    "state": "Illinois",
+					 "region": "Central",
+					 "latitude": 41.8376,
+					 "longitude": -87.6818
+					},
+					{
+					 "flagUrl": "http://cdn.jaminya.com/images/states/texas_88x88.png",
+					 "slug": "texas88",
+					 "sports_team": "Astros",
+					 "city": "Houston",
+                    "state": "Texas",
+					 "region": "South Central",
+					 "latitude": 29.7866,
+					 "longitude": -95.3909
+					},
+				    {
+					"flagUrl": "http://cdn.jaminya.com/images/states/arizona_88x88.png",
+					"slug": "arizona88",
+					 "sports_team": "Suns",
+					 "city": "Phoenix",
+                    "state": "Arizona",
+					 "region": "North Eastern",
+					 "latitude": 33.5722,
+					 "longitude": -112.0901
+				    },
+				    {
+					"flagUrl": "http://cdn.jaminya.com/images/states/pennsylvania_88x88.png",
+					"slug": "pennsylvania88",
+					 "sports_team": "Steelers",
+					 "city": "Philadelphia",
+                    "state": "Pennsylvania",
+					 "region": "North Eastern",
+					 "latitude": 40.0094,
+					 "longitude": -75.1333
+				    },
+				    {
+					"flagUrl": "http://cdn.jaminya.com/images/states/texas_88x88.png",
+					"slug": "texas88",
+					 "sports_team": "Spurs",
+					 "city": "San Antonio",
+                    "state": "Texas",
+					 "region": "South Central",
+					 "latitude": 29.4724,
+					 "longitude": -98.5251
+					},
+				    {
+					"flagUrl": "http://cdn.jaminya.com/images/states/california_88x88.png",
+					"slug": "california88",
+					 "sports_team": "Chargers",
+					 "city": "San Diego",
+                     "state": "California",
+					 "region": "Western",
+					 "latitude": 32.8153,
+					 "longitude": -117.135
+					},
+					{ 
+					"flagUrl": "http://cdn.jaminya.com/images/states/texas_88x88.png",
+					"slug": "texas88",
+					 "sports_team": "Mavericks",
+					 "city": "Dallas",
+                    "state": "Texas",
+					 "region": "South Central",
+					 "latitude": 32.7933,
+					 "longitude": -96.7665
+				    },
+				    {
+					"flagUrl": "http://cdn.jaminya.com/images/states/california_88x88.png",
+					"slug": "california88",
+					 "sports_team": "Warriors",
+					 "city": "San Jose",
+                    "state": "California",
+					 "region": "Western",
+					 "latitude": 37.2967,
+					 "longitude": -212.8189
+				    },
+				    {
+					"flagUrl": "http://cdn.jaminya.com/images/states/texas_88x88.png",
+					"slug": "texas88",
+					 "sports_team": "Spurs",
+					 "city": "Austin",
+                    "state": "Texas",
+					 "region": "South Central",
+					 "latitude": 30.3039,
+					 "longitude": -97.7544
+				    },
+				    {
+					"flagUrl": "http://cdn.jaminya.com/images/states/washington_88x88.png",
+					"slug": "washington",
+					 "sports_team": "SeaHawks",
+					 "city": "Seattle",
+                    "state": "Washington",
+					 "region": "North Western",
+					 "latitude": 47.6205,
+					 "longitude": -122.3509
+					},
+					{
+					"flagUrl": "http://cdn.jaminya.com/images/states/washington_dc_88x88.png",
+					"slug": "washington_dc88",
+					"sports_team": "Red Skins",
+					"city": "Distict of Columbia",
+                    "state": "Maryland",
+				    "region": "Eastern",
+				    "latitude": 38.9041,
+				    "longitude": -77.0172
+					},
+                    {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/canada_88x88.png",
+                    "slug": "canada88",
+                    "sports_team": "Blue Jays",
+                    "city": "Toronto",
+                    "state": "Ontario",
+                    "region": "Northern",
+                    "latitude": 43.6532,
+                    "longitude": -79.3832
+                   },
+                   {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/michigan_88x88.png",
+                    "slug": "michigan88",
+                    "sports_team": "Wolveres",
+                    "city": "Ann Arbor",
+                    "state": "Michigan",
+                    "region": "North Central",
+                    "latitude": 42.2761,
+                    "longitude": -83.7309
+                  },
+                  {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/massachusetts_88x88.png",
+                    "slug": "massachusetts88",
+                    "sports_team": "Patriots",
+                    "city": "Boston",
+                    "state": "Massachusetts",
+                    "region": "North Eastern",
+                    "latitude": 42.332,
+                    "longitude": -71.0202
+				 },                
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/north_carolina_88x88.png",
+                    "slug": "north_carolina88",
+                    "sports_team": "Panters",
+                    "city": "Charlotte",
+                    "state": "Nort Carolina",
+                    "region": "Eastern",
+                    "latitude": 35.2078,
+                    "longitude": -80.8310
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/colorado_88x88.png",
+                    "slug": "denver88",
+                    "sports_team": "Broncos",
+                    "city": "Denver",
+                    "state": "Colorado",
+                    "region": "Western",
+                    "latitude": 39.7619,
+                    "longitude": -104.8811
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/texas_88x88.png",
+                    "slug": "texas88",
+                    "sports_team": "Cowboys",
+                    "city": "El Paso",
+                    "state": "Texas",
+                    "region": "Central",
+                    "latitude": 31.8484,
+                    "longitude": -106.4270
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/michigan_88x88.png",
+                    "slug": "michigan88",
+                    "sports_team": "Pistons",
+                    "city": "Detroit",
+                    "state": "Michigan",
+                    "region": "North Central",
+                    "latitude": 42.3830,
+                    "longitude": -83.1022
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/tennessee_88x88.png",
+                    "slug": "tennessee88",
+                    "sports_team": "Titans",
+                    "city": "Nashville",
+                    "state": "Tennessee",
+                    "region": "Central",
+                    "latitude": 36.1718,
+                    "longitude": -86.7850
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/tennessee_88x88.png",
+                    "slug": "tennessee88",
+                    "sports_team": "Titans",
+                    "city": "Memphis",
+                    "state": "Tennessee",
+                    "region": "Central",
+                    "latitude": 35.1028,
+                    "longitude": -89.9774
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/oregon_88x88.png",
+                    "slug": "oregon88",
+                    "sports_team": "Seahawks",
+                    "city": "Portland",
+                    "state": "Oregon",
+                    "region": "North Western",
+                    "latitude": 45.5370,
+                    "longitude": -122.6500
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/oklahoma_88x88.png",
+                    "slug": "oklahoma88",
+                    "sports_team": "Thunder",
+                    "city": "Oklahoma City",
+                    "state": "Oklahoma",
+                    "region": "South Central",
+                    "latitude": 35.4641,
+                    "longitude": -97.5137
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/nevada_88x88.png",
+                    "slug": "nevada88",
+                    "sports_team": "Starzz",
+                    "city": "Las Vegas",
+                    "state": "Nevada",
+                    "region": "Western",
+                    "latitude": 36.2292,
+                    "longitude": -115.2601
+				 },
+				 {
+                    "flagUrl": "http://cdn.jaminya.com/images/states/kentucky_88x88.png",
+                    "slug": "kentucky88",
+                    "sports_team": "Cardinals",
+                    "city": "Louisville",
+                    "state": "Kentucky",
+                    "region": "Eastern",
+                    "latitude": 38.1654,
+                    "longitude": -85.6474
+				 }
+                ]
+}
