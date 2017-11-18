@@ -1,6 +1,7 @@
 # City_JSON
 JSON file containing array of city data objects. The first three city objects are shown.
 
+```json
 {
  "major_cities":
     [
@@ -36,3 +37,4 @@ JSON file containing array of city data objects. The first three city objects ar
      }
     ]
 }
+```
